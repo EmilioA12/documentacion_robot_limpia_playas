@@ -6,4 +6,4 @@ nav_order: 4
 
 # Diagramas de bloques
 
-![Diagrama mecánico]({{ '/assets/img/diagrama_mecanicoelectrico.png' | relative_url }})
+![Diagrama mecánico y eléctrico]({{ '/assets/img/diagrama_mecanicoelectrico.jpeg' | relative_url }})

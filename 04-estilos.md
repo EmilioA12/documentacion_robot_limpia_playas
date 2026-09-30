@@ -2,6 +2,8 @@
 layout: default
 title: Estilos y personalización visual
 nav_order: 5
+nav_exclude: true
+search_exclude: true
 ---
 
 # Estilos y personalización visual

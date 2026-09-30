@@ -2,6 +2,8 @@
 layout: default
 title: Estructura del repositorio
 nav_order: 3
+nav_exclude: true
+search_exclude: true
 ---
 
 # Estructura del repositorio

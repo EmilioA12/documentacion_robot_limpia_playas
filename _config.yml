@@ -1,5 +1,5 @@
-title: Portafolio
-description: Repositorio base para enseñar y crear documentación en GitHub Pages con Just the Docs
+title: Robot Limpia Playas
+description: Documentación del proyecto de Integración Mecatrónica.
 
 # GitHub Pages: modo recomendado
 remote_theme: just-the-docs/just-the-docs
@@ -29,8 +29,8 @@ search:
 # Ejemplo de enlace auxiliar (aparece arriba a la derecha)
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/HuberGiron/portafolio-just-the-docs"
-
+    - "https://github.com/EmilioA12/documentacion_robot_limpia_playas"
+    
 # Enlaces
 permalink: pretty
 
